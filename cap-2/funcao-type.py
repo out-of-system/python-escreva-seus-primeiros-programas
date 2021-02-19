@@ -23,3 +23,4 @@ teste = isinstance(name, str)
 print(teste)
 teste2 = isinstance(name, int)
 print(teste2)
+
